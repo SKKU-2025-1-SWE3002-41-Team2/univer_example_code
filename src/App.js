@@ -38,7 +38,6 @@ function App() {
   
   return (
     <div style={{ width: '100%', height: '100vh' }}>
-      <div id = "testblank" style={{width : "30%",height:"100%"}}></div>
       <div id="univer-container" ref={containerRef} style={{ width: '70%', height: '100%' }}></div>
     </div>
   );
